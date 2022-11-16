@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrickholmes233
 - 👀 I’m interested in Data, Stats, AI, Machine Learning, and Information Systems.
-- 🌱 I’m currently learning Information Systems and Data Science as part of my undergraduate degree at the Victoria University of Wellington (New Zealand). I plan on pursuing a masters on Computer Science, focusing on AI and Machine Learning.
+- 🌱 I’m currently learning Information Systems and Computer Science as part of my undergraduate degree at the Victoria University of Wellington (New Zealand). 
 - 💞️ I’m looking to collaborate on data, AI, machine learning, app/web development, and UX/UI design.
 - 📫 How to reach me ... Email me @ patrickholmes367@gmail.com
 
